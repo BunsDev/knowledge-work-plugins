@@ -309,7 +309,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/intercom/claude-plugin-external.git",
-        "sha": "62773a7d4b8aac31545d6888fe6479be3bc53804"
+        "sha": "5aa05308e97f9de68e9119a506c318568020f937"
       },
       "homepage": "https://github.com/intercom/claude-plugin-external"
     },
